@@ -14,7 +14,6 @@ use Illuminate\Validation\ValidationException;
 use Inertia\Inertia;
 use Inertia\Response;
 
-
 class NewPasswordController extends Controller
 {
     /**
